@@ -3,8 +3,8 @@
 import sys
 
 def add(a,b):
-	sum = a + b
-	print (sum)
+	summ = a + b
+	print (summ)
 try:
 	a = int(sys.argv[1])
 	b = int(sys.argv[2])
